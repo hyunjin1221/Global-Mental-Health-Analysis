@@ -1,5 +1,5 @@
 # Global-Mental-Health-Analysis
----
+
 Contributors:
 - Hyunjin Yu
 - Glenn Castellino
@@ -8,7 +8,7 @@ Contributors:
 - Yufei Shang
 
 # Tableau Dashboard
----
+
 - Dashboard 1: The first dashboard presents a global overview of mental health statistics:
 - A world map showing the distribution of happiness scores.
 - A bar chart highlighting the most common mental health disorders, with anxiety and depression being the most prevalent.
